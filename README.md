@@ -3,7 +3,7 @@
 
 ### Usage
 ---
-ALl work in this repository is presented "as-is". 
+All work in this repository is presented "as-is". 
 Usage of this code must be strictly non-commerical, and any usage requires attribution to the original author
 
 ### Contents
